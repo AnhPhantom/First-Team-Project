@@ -1,6 +1,6 @@
 AUTHOR = 'TCMG 402 Group 1'
 SITENAME = 'TAMEats'
-SITEURL = 'https://github.com/AnhPhantom/First-Team-Project.git'
+SITEURL = 'https://first-team-project.pages.dev'
 
 PATH = 'content'
 
